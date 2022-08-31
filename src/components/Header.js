@@ -2,6 +2,7 @@ import { AiOutlineSearch, AiOutlineShoppingCart } from 'react-icons/ai';
 
 export const Header = () =>{
     const image = "http://pngimg.com/uploads/amazon/amazon_PNG11.png"
+    
     return(
         <div className="flex bg-blue h-16 items-center sticky top-0 z-100">
             <img className="flex-none w-24 contain mx-5 mt-4" src="http://pngimg.com/uploads/amazon/amazon_PNG11.png" alt="logo"/>

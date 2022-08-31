@@ -1,7 +1,7 @@
-export const Home = () =>{
+export const Product = () => {
     return(
         <div>
-            Home
+            
         </div>
     )
 }
